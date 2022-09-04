@@ -1,4 +1,4 @@
-# Open preview 눌러
+Replit에서 보면 Open preview
 
 ```
 ### TODO: 
